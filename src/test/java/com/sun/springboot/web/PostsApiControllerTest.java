@@ -1,5 +1,6 @@
 package com.sun.springboot.web;
 
+import com.sun.springboot.domain.posts.Posts;
 import com.sun.springboot.domain.posts.PostsRepository;
 import com.sun.springboot.web.dto.PostsSaveRequestDto;
 import org.junit.After;
